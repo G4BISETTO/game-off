@@ -4,16 +4,3 @@
 <h1>MC DEANADAI </h1>
 <P>funkzao brabo</P>
 </body>
-<head>
-<link rel="stylesheet"href="styles.css">
-<title>Aluraflix</title>
-</head>
-body{
-color:white;background:black;mergin:0px
-}
-header{
-borter-bottom:solid 2px rgb(42,122,228);
-padding:20px;
-font-size:32px
-color:rgb(42,122,228);
-}
