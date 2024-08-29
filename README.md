@@ -4,3 +4,7 @@
 <h1>lil tecca </h1>
 <P>trap</P>
 </body>
+<head>
+<link rel="stylesheet"href="styles.css">
+<title>Game Off</title>
+</head>
